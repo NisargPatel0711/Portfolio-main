@@ -292,9 +292,9 @@ const degrees = {
       subtitle: "Ontario College Advanced Diploma",
       logo_path: "gbc.png",
       alt_name: "GBC",
-      duration: "2021 - 2023",
+      duration: "Jan 2021 - Apr 2023",
       descriptions: [
-        "⚡ I'm currently pursuing my Advanced Diploma in Computer Programming & Analysis.",
+        "⚡ I recently completed Advanced Diploma in Computer Programming & Analysis.",
         "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc. till now.",
         "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
         "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course.",
@@ -498,11 +498,11 @@ const experience = {
           color: "#0071C5",
         },
         {
-          title: "Junior Web Developer - Intern",
+          title: "Junior Web Developer - Permanent Fulltime",
           company: "SM Group Of Companies",
           company_url: "http://www.smgroupco.com/",
           logo_path: "sm-group.png",
-          duration: "Apr 2020 -  Mar 2021",
+          duration: "May 2020 -  Jun 2021",
           location: "",
           description: [
             "👉	Developed an application for pharmaceutical company with ASP.NET and React",
